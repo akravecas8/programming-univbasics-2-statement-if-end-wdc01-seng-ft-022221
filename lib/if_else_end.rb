@@ -1,4 +1,4 @@
 current_time=Time.now
-current_time.to_i
+now=current_time.to_i
 print(current_time)
 # Write your solution here
