@@ -5,7 +5,7 @@ print(now)
 if now % 2 ==0
   puts "Even!"
 else
-  put "Odd!"
+  puts "Odd!"
 end
 
 
