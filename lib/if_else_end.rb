@@ -1,3 +1,3 @@
 current_time=Time.now
-puts(current_time)
+current_time
 # Write your solution here
